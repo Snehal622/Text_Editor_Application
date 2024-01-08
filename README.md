@@ -1,2 +1,2 @@
-# Text_Editor_Application
- Using HTML CSS & JS
+# Text_Editor
+ Created Text Editor Application Using HTML CSS JS
